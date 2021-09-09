@@ -1,13 +1,5 @@
 {
-  "logs": [
-    {
-      "id": 1,
-      "message": "rahul ",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2021-09-09T10:40:47.008Z"
-    }
-  ],
+  "logs": [],
   "techs": [
     {
       "id": 1,
