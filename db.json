@@ -1,0 +1,28 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "rahul ",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-09-09T10:40:47.008Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
